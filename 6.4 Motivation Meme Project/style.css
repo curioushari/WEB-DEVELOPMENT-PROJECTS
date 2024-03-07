@@ -1,0 +1,23 @@
+.container{
+    
+    width: 100%; 
+    margin-top : 100px;
+    font-family : libre-baskerville-regular;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase; 
+}
+p{
+    color: white;
+    text-align: center;
+}
+#photo{
+border : 5px solid white; 
+width : 100%; 
+}
